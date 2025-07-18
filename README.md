@@ -2,6 +2,7 @@
 
 🎓 Master's in Software Engineering  
 💻 Passionate about web development, with a growing interest in AI and machine learning
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rihab-wahiba-boukarabila-91a451215/) | [Email](mailto:rihab_boukarabila@outlook.fr)
 
 ## 🔧 Technologies & Tools

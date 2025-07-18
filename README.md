@@ -16,7 +16,7 @@
 
 
 ## 📚 Projects
-- 🎓 [Expert Dashboard – SMART Method](https://github.com/rihabbila/expert-dashboard) *(Master's Thesis Project)*
+- 🎓 [Expert Dashboard – SMART Method](https://github.com/rihabbila/expertDASH) *(Master's Thesis Project)*
 - 💳 FSTBank (EJB3 App)
 - 📰 News Agency System (Observer Pattern, JavaBeans)
 - 📚 Odoo ERP – Library System
